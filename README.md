@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there, This is Ahtesham again.
 
-<!--
-**dew1231/dew1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I really like diving into backend software of any kind, whether it be a program, website or an api. This curiosity has led to me this path and I am very happy to be here.
+- Using and developing open source projects has been a deliggt and I hope to contribute more to it.
+- My major interest would be in CyberSecurity itself.
+- I use Win10 with a secoundry linux device (i use arch btw (will daily drive linux once i get more resources)).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Rust, C#, Assembly for Reverse Engineering
+  - TensorFlow and Kubernetes Clusters
+  - React Native, Three.js, Next.js
+  - Server Management and Google Cloud Services
+  - MongoDB and Mysql
+
+
+- 👯 I’m looking to collaborate on: 
+   - I am exploring the domain right now so everything is open.
+    
+
+- 📫 How to reach me: 
+  - ahtesham07@proton.me
+  
