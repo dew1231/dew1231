@@ -11,6 +11,7 @@
   - React Native, Three.js, Next.js
   - Server Management and Google Cloud Services
   - MongoDB and Mysql
+  - DevSecOps
 
 
 - 👯 I’m looking to collaborate on: 
